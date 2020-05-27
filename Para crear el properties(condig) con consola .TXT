@@ -1,0 +1,1 @@
+echo server.port=8005 > servicio-items.properties
